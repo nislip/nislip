@@ -1,5 +1,7 @@
 ### Hi there 👋
 
-## Technologies and Skills 🛠️
+## About me 📘
 
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=data:image/svg%2bxml;base64,<#3776AB>)
+## Research Interests 📑
+
+## Technologies and Skills 🛠️
