@@ -1,4 +1,6 @@
-### <center>Centered text</center>
+<p align="center">
+    // Your content
+</p>
 
 ## About me 📘
 
