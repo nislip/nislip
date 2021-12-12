@@ -1,6 +1,4 @@
-<p align="center">
-    // Your content
-</p>
+### <p align="center"> Your content </p>
 
 ## About me 📘
 
