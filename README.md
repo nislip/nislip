@@ -1,4 +1,4 @@
-### Hi there 👋
+### <center>Centered text</center>
 
 ## About me 📘
 
