@@ -1,6 +1,6 @@
-### <p align="center"> Your content </p>
+### <p align="center"> Nate Islip </p>
 
-## About me 📘
+## About 📘
 
 ## Research Interests 📑
 
