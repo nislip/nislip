@@ -6,7 +6,7 @@
 
 **Proficiency:** Expert
 
-**Packages:** 
+**Packages:** Pandas, Pyspark
 
 **Projects:**
 
@@ -20,11 +20,11 @@
 
 ### Matlab 🥉
 
-**Proficiency** Beginner
+**Proficiency:** Beginner
 
-**Packages**
+**Packages:**
 
-**Projects**
+**Projects:**
 
 ## Career
 
