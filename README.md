@@ -2,7 +2,7 @@
 
 ## Languages and Skills (Expert, Proficient, Beginner)
 
-#### Python 🥇
+### Python 🥇
 
 **Proficiency:** Expert
 
@@ -10,7 +10,7 @@
 
 **Projects:**
 
-#### R studio 🥈
+### R studio 🥈
 
 **Proficency:** Proficient
 
@@ -18,7 +18,7 @@
 
 **Projects:**
 
-#### Matlab 🥉
+### Matlab 🥉
 
 **Proficiency** Beginner
 
