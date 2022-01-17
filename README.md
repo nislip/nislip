@@ -5,19 +5,25 @@
 Python 🐍
 
 Proficiency
+
 Packages 
+
 Projects
 
 Matlab 🖥️
 
 Proficiency
+
 Packages
+
 Projects
 
 R 
 
 Proficiency
+
 Packages
+
 Projects 
 
 ## Career
