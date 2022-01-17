@@ -1,30 +1,30 @@
-### <p align="center"> Nate Islip </p>
+# <p align="center"> Nate Islip </p>
 
-#### Languages and Skills
+## Languages and Skills (Expert, Proficient, Beginner)
 
-Python 🐍
+#### Python 🥇
 
-Proficiency
+**Proficiency:** Expert
 
-Packages 
+**Packages:** 
 
-Projects
+**Projects:**
 
-Matlab 🖥️
+#### R studio 🥈
 
-Proficiency
+**Proficency:** Proficient
 
-Packages
+**Packages:**
 
-Projects
+**Projects:**
 
-R 
+#### Matlab 🥉
 
-Proficiency
+**Proficiency** Beginner
 
-Packages
+**Packages**
 
-Projects 
+**Projects**
 
 ## Career
 
