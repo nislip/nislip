@@ -24,7 +24,7 @@
 
 **Proficiency:** Beginner (1+ Year XP)
 
-**Packages:**
+**Packages/Toolbox:** Risk Management Toolbox, PDE Toolbox, Deep Learning and Classification Toolbox
 
 **Projects:**
 
