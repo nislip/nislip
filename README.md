@@ -2,7 +2,7 @@
 
 ## <p align="center"> M.S. Applied Mathematics, B.S. Economics | Risk Modeling Intern | Seattle, WA </p>
 
-## Languages and Skills (Expert, Proficient, Beginner)
+## Languages and Skills (Expert, Proficient, Beginner) --
 
 ### Python 🥇
 
