@@ -6,7 +6,7 @@
 
 ### Python 🥇
 
-**Proficiency:** Expert
+**Proficiency:** Expert (5+ Years XP)
 
 **Packages:** Pandas, plotly, matplotlib, seaborn, Pyspark, scipy, numpy, scikit-learn, statsmodels
 
@@ -14,7 +14,7 @@
 
 ### R studio 🥈
 
-**Proficency:** Proficient
+**Proficency:** Proficient (5+ Years XP)
 
 **Packages:** ggplot2, tidyr, dplyr 
 
@@ -22,7 +22,7 @@
 
 ### Matlab 🥉
 
-**Proficiency:** Beginner
+**Proficiency:** Beginner (1+ Year XP)
 
 **Packages:**
 
