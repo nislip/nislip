@@ -1,5 +1,7 @@
 # <p align="center"> Nate Islip </p>
 
+# <p align="center"> Graduate Student | Risk Modeling Intern | Seattle, WA </p>
+
 ## Languages and Skills (Expert, Proficient, Beginner)
 
 ### Python 🥇
