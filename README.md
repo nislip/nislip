@@ -8,7 +8,7 @@
 
 **Proficiency:** Expert
 
-**Packages:** Pandas, Pyspark
+**Packages:** Pandas, plotly, matplotlib, seaborn, Pyspark, scipy, numpy, scikit-learn, statsmodels
 
 **Projects:**
 
