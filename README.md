@@ -31,4 +31,4 @@
 - Risk Modeling intern at Enact Mortgage Insurance 
 - Former Graduate Budget Analyst at the City of Kirkland
 - Current M.S. student at Eastern Washington Univesrity studying Applied Mathematics. 
-- 
+  - Thesis research is on The Theory and Applications of Machine Learning in Economics
