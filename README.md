@@ -12,8 +12,10 @@
 
 **Projects:**
   
-  - test
-  - test
+  - M.S. Thesis: 
+  - Energy Information Administration (EIA) Web Scrape:
+  - M.S. Courses:
+  - Risk Modeling:
 
 ### R studio 🥈
 
@@ -22,10 +24,15 @@
 **Packages:** ggplot2, tidyr, dplyr 
 
 **Projects:**
+  
+  - Economic Research:
+  - M.S. Thesis:
 
 ### Tableau 🥈
 
 **Proficency:** Proficient (2+ Years XP)
+
+  - 
 
 **Projects:**
 
@@ -36,6 +43,8 @@
 **Packages/Toolbox:** Risk Management Toolbox, PDE Toolbox, Deep Learning and Classification Toolbox
 
 **Projects:**
+
+  - 
 
 ## Career
 
