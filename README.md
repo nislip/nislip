@@ -2,21 +2,30 @@
 
 ## <p align="center"> M.S. Applied Mathematics, B.S. Economics | Risk Modeling Intern | Seattle, WA </p>
 
-## Languages and Skills (Expert, Proficient, Beginner)
+## Languages and Skills (Fluent, Proficient, Beginner)
 
 ### Python 🥇
 
-**Proficiency:** Expert (5+ Years XP)
+**Proficiency:** Fluent (5+ Years XP)
 
 **Packages:** Pandas, plotly, matplotlib, seaborn, Pyspark, scipy, numpy, scikit-learn, statsmodels
 
 **Projects:**
+  
+  - test
+  - test
 
 ### R studio 🥈
 
 **Proficency:** Proficient (5+ Years XP)
 
 **Packages:** ggplot2, tidyr, dplyr 
+
+**Projects:**
+
+### Tableau 🥈
+
+**Proficency:** Proficient (2+ Years XP)
 
 **Projects:**
 
