@@ -1,6 +1,6 @@
 # <p align="center"> Nate Islip </p>
 
-## <p align="center"> M.S. Applied Mathematics, B.S. Economics | Risk Modeling Intern | Seattle, WA </p>
+## <p align="center"> M.S. Applied Mathematics | B.S. Economics | Risk Modeling Intern | Seattle, WA </p>
 
 ## Languages and Skills (Fluent, Proficient, Beginner)
 
@@ -21,7 +21,7 @@
 
 **Proficency:** Proficient (5+ Years XP)
 
-**Packages:** ggplot2, tidyr, dplyr 
+**Packages:** ggplot2, tidyr, dplyr, stargazer,  
 
 **Projects:**
   
@@ -32,19 +32,11 @@
 
 **Proficency:** Proficient (2+ Years XP)
 
-  - 
-
-**Projects:**
-
 ### Matlab 🥉
 
 **Proficiency:** Beginner (1+ Year XP)
 
 **Packages/Toolbox:** Risk Management Toolbox, PDE Toolbox, Deep Learning and Classification Toolbox
-
-**Projects:**
-
-  - 
 
 ## Career
 
