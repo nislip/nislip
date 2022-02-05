@@ -10,23 +10,11 @@
 
 **Packages:** Pandas, plotly, matplotlib, seaborn, Pyspark, scipy, numpy, scikit-learn, statsmodels
 
-**Projects:**
-  
-  - M.S. Thesis: 
-  - Energy Information Administration (EIA) Web Scrape:
-  - M.S. Courses:
-  - Risk Modeling:
-
 ### R studio 🥈
 
 **Proficency:** Proficient (5+ Years XP)
 
 **Packages:** ggplot2, tidyr, dplyr, stargazer,  
-
-**Projects:**
-  
-  - Economic Research:
-  - M.S. Thesis:
 
 ### Tableau 🥈
 
