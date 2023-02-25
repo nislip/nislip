@@ -2,7 +2,7 @@
 
 ## <p align="center"> M.S. Applied Mathematics | B.S. Economics | Risk Modeling & DCSI | Raleigh, North Carolina </p>
 
-## Languages and Skills (Fluent, Proficient, Beginner)
+## Programming Langauges
 
 ### Python 🥇
 
