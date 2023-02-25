@@ -1,6 +1,6 @@
 # <p align="center"> Nate Islip </p>
 
-## <p align="center"> M.S. Applied Mathematics | B.S. Economics | Risk Modeling & DCSI | Seattle, WA </p>
+## <p align="center"> M.S. Applied Mathematics | B.S. Economics | Risk Modeling & DCSI | Raleigh, North Carolina </p>
 
 ## Languages and Skills (Fluent, Proficient, Beginner)
 
