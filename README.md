@@ -28,9 +28,9 @@
 
 ## Career
 
-- **Risk Modeling intern at Enact Mortgage Insurance** ***(May 2021 - May 2022)***
+- **Risk Modeling Analyst at Enact Mortgage Insurance** ***(May 2022 - Present)***
 - **Former Graduate Budget Analyst at the City of Kirkland** ***(September 2020 - December 2020)***
-- **Current M.S. student at Eastern Washington Univesrity (EWU) studying Applied Mathematics**
+- **Graduated M.S. student at Eastern Washington Univesrity (EWU) studying Applied Mathematics**
   - Thesis research is on the theory and applications of machine learning in Health Economics
 - **Economic Research assistant 1 at EWU** ***(September 2019 - January 2021)***
     - Previous research pertained to Hospital financial performance with respect to environmental sustainability
