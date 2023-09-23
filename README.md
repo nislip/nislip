@@ -1,6 +1,6 @@
 # <p align="center"> Nate Islip </p>
 
-## <p align="center"> M.S. Applied Mathematics | B.S. Economics | Risk Modeling & DCSI | Raleigh, North Carolina </p>
+## <p align="center"> M.S. Applied Mathematics | B.S. Math Econ | Data Scientist
 
 ## Programming Langauges
 
