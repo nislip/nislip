@@ -6,15 +6,11 @@
 
 ### Python 🥇
 
-**Proficiency:** Fluent (5+ Years XP)
-
-**Packages:** Pandas, plotly, matplotlib, seaborn, Pyspark, scipy, numpy, scikit-learn, statsmodels
+**Proficiency:** Fluent (7+ Years XP)
 
 ### R studio 🥈
 
-**Proficency:** Proficient (5+ Years XP)
-
-**Packages:** ggplot2, tidyr, dplyr, stargazer,  
+**Proficency:** Fluent (5+ Years XP)
 
 ### Tableau 🥈
 
@@ -23,15 +19,3 @@
 ### Matlab 🥉
 
 **Proficiency:** Beginner (1+ Year XP)
-
-**Packages/Toolbox:** Risk Management Toolbox, PDE Toolbox, Deep Learning and Classification Toolbox
-
-## Career
-
-- **Risk Modeling Analyst at Enact Mortgage Insurance** ***(May 2022 - Present)***
-- **Former Graduate Budget Analyst at the City of Kirkland** ***(September 2020 - December 2020)***
-- **Graduated M.S. student at Eastern Washington Univesrity (EWU) studying Applied Mathematics**
-  - Thesis research is on the theory and applications of machine learning in Health Economics
-- **Economic Research assistant 1 at EWU** ***(September 2019 - January 2021)***
-    - Previous research pertained to Hospital financial performance with respect to environmental sustainability
-    -  Iz ́on GM, Islip N. Does Eco-Certification Correlate with Improved Financial Performance?  EvidenceFrom  a  Longitudinal  Study  in  the  US  Hospital  Industry.International Journal of Health Services.2021;51(4):559-569
